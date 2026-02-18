@@ -10,9 +10,6 @@ For full details on how to use it, see the documentation below, but essentially 
 2. Drop the .mlmodelc file into your project
 3. Add this component to one of your views
 
-We have an example project (based on hot dog or not hot dog 🌭) here - https://github.com/jigsawxyz/react-native-coreml-image-example.
-
-And a blog post about the project here - https://medium.com/jigsaw-xyz/realtime-image-recognition-in-reactnative-with-coreml-24ed7d414f23
 
 ## Installation instructions
 Within your react native project, run the following command to install the module:
